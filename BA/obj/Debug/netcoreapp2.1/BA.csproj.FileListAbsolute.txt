@@ -1,0 +1,28 @@
+D:\Project\BA\BA\obj\Debug\netcoreapp2.1\BA.csprojAssemblyReference.cache
+D:\Project\BA\BA\obj\Debug\netcoreapp2.1\BA.csproj.CoreCompileInputs.cache
+D:\Project\BA\BA\obj\Debug\netcoreapp2.1\BA.RazorAssemblyInfo.cache
+D:\Project\BA\BA\obj\Debug\netcoreapp2.1\BA.RazorAssemblyInfo.cs
+D:\Project\BA\BA\obj\Debug\netcoreapp2.1\BA.AssemblyInfoInputs.cache
+D:\Project\BA\BA\obj\Debug\netcoreapp2.1\BA.AssemblyInfo.cs
+D:\Project\BA\BA\bin\Debug\netcoreapp2.1\BA.deps.json
+D:\Project\BA\BA\bin\Debug\netcoreapp2.1\BA.runtimeconfig.json
+D:\Project\BA\BA\bin\Debug\netcoreapp2.1\BA.runtimeconfig.dev.json
+D:\Project\BA\BA\bin\Debug\netcoreapp2.1\BA.dll
+D:\Project\BA\BA\bin\Debug\netcoreapp2.1\BA.pdb
+D:\Project\BA\BA\obj\Debug\netcoreapp2.1\BA.RazorTargetAssemblyInfo.cache
+D:\Project\BA\BA\obj\Debug\netcoreapp2.1\BA.dll
+D:\Project\BA\BA\obj\Debug\netcoreapp2.1\BA.pdb
+c:\GDisk\Projects\Тестовые задания\БизнесАвтоматика\BA_new\BA\bin\Debug\netcoreapp2.1\BA.deps.json
+c:\GDisk\Projects\Тестовые задания\БизнесАвтоматика\BA_new\BA\bin\Debug\netcoreapp2.1\BA.runtimeconfig.json
+c:\GDisk\Projects\Тестовые задания\БизнесАвтоматика\BA_new\BA\bin\Debug\netcoreapp2.1\BA.runtimeconfig.dev.json
+c:\GDisk\Projects\Тестовые задания\БизнесАвтоматика\BA_new\BA\bin\Debug\netcoreapp2.1\BA.dll
+c:\GDisk\Projects\Тестовые задания\БизнесАвтоматика\BA_new\BA\bin\Debug\netcoreapp2.1\BA.pdb
+c:\GDisk\Projects\Тестовые задания\БизнесАвтоматика\BA_new\BA\obj\Debug\netcoreapp2.1\BA.csprojAssemblyReference.cache
+c:\GDisk\Projects\Тестовые задания\БизнесАвтоматика\BA_new\BA\obj\Debug\netcoreapp2.1\BA.csproj.CoreCompileInputs.cache
+c:\GDisk\Projects\Тестовые задания\БизнесАвтоматика\BA_new\BA\obj\Debug\netcoreapp2.1\BA.RazorAssemblyInfo.cache
+c:\GDisk\Projects\Тестовые задания\БизнесАвтоматика\BA_new\BA\obj\Debug\netcoreapp2.1\BA.RazorAssemblyInfo.cs
+c:\GDisk\Projects\Тестовые задания\БизнесАвтоматика\BA_new\BA\obj\Debug\netcoreapp2.1\BA.AssemblyInfoInputs.cache
+c:\GDisk\Projects\Тестовые задания\БизнесАвтоматика\BA_new\BA\obj\Debug\netcoreapp2.1\BA.AssemblyInfo.cs
+c:\GDisk\Projects\Тестовые задания\БизнесАвтоматика\BA_new\BA\obj\Debug\netcoreapp2.1\BA.RazorTargetAssemblyInfo.cache
+c:\GDisk\Projects\Тестовые задания\БизнесАвтоматика\BA_new\BA\obj\Debug\netcoreapp2.1\BA.dll
+c:\GDisk\Projects\Тестовые задания\БизнесАвтоматика\BA_new\BA\obj\Debug\netcoreapp2.1\BA.pdb
